@@ -1,2 +1,1 @@
-addons/phone_validation/models/res_partner.py
-phonenumbers biblioteca
+https://www.youtube.com/@ajscriptmedia
